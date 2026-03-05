@@ -1,2 +1,2 @@
-* initial
-** This is sample file
+** Welcome to QSign Help Site
+
