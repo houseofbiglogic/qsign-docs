@@ -1,4 +1,4 @@
 {
-  "sale.order": {"title": "Satış Siparişi", "updated": "2026-03-01"},
-  "stock.picking": {"title": "Stok Transferi", "updated": "2026-02-15"}
+  "sale.order": ["Satış Siparişi", "pizza"],
+  "stock.picking": ["Stok Transferi", "kalem"]
 }
